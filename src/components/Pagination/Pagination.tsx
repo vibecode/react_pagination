@@ -1,4 +1,5 @@
 import cn from 'classnames';
+
 interface PaginationProps {
   total: number;
   perPage: number;
